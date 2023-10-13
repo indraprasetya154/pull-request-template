@@ -1,34 +1,40 @@
 ## Overview
-why: ....
+- what this change is it...
+- why this change is needed...
 
-## Query/Mutation/Response
+## Changes
+-
+-
 
-```
-{
-      "attribute": "value"
-}
-```
-
-## Unit Test Scenarios
-### Scenario 1...
-description here. You could also link to QA's test case etc
-< screnshot here>
-
-### Scenario 2...
-description here. You could also link to QA's test case etc
-< screnshot here>
+## Docs
+- API Spec: Wiki/Postman/Other
+- Wiki:
 
 ## Links
-- clickup:
-- wiki:
-- others:
+- ClickUp:
+- Scenario Test:
+- Other:
 
-## To Do
-- [ ] run command on server : $ npm run migration:prod
+## How Has This Been Tested?
+- [ ] Manual Testing
+- [ ] Automated Testing
+      
+### Result
+- [ ] Test A
+- [ ] Test B
+
+## Checklist
+- [ ] I have run and passed the linter?
+- [ ] I have performed a self-review of my own code
+- [ ] I have commented my code, particularly in hard-to-understand areas
+
+## Deploy Notes
+- [ ] run command on server: $ npm run migration:prod
 - [ ] update env. MR link: ...
+- [ ] change column A value from `false` to `true`
 
 ## Evidence:
-project: SIDEBAR
+project: PROJECT_NAME
 title:
 participants: 
 screenshot: 
